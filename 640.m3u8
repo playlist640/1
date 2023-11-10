@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 ,ОРТ
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/127/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/127/index.m3u8
 #EXTINF:-1 ,ОРТ +2 часа
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/714/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/714/index.m3u8
 #EXTINF:-1 ,ОНТ
 http://mfe09.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,Euronews
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/828/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/828/index.m3u8
 #EXTINF:-1 ,Беларусь 1
 http://mfe27.svc.ott.zala.by/hls/M52YG9EVYD_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,Беларусь 2
@@ -16,46 +16,46 @@ http://mfe20.svc.ott.zala.by/hls/TSNEW37RPC_HLS/bw2500000/playlist.m3u8?version=
 #EXTINF:-1 ,Беларусь 5
 http://mfe12.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,Россия
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/504/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/504/index.m3u8
 #EXTINF:-1 ,НТВ
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/501/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/501/index.m3u8
 #EXTINF:-1 ,СТВ
 http://mfe25.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,ТНТ
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/502/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/502/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://mfe21.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/bw2000000/playlist.m3u8?version=2
 #EXTINF:-1 ,Живи
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/738/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/738/index.m3u8
 #EXTINF:-1 ,Еда
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/6009/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/6009/index.m3u8
 #EXTINF:-1 ,МИР
 http://mfe07.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,Глазами туриста
 https://mfe25.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,Discovery
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/140/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/140/index.m3u8
 #EXTINF:-1 ,Discovery Science
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/136/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/136/index.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://mfe27.svc.ott.zala.by/hls/BN3FTDY3T8_HLS/bw1200000/playlist.m3u8?version=2
 #EXTINF:-1 ,Nickelodeon
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/541/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/541/index.m3u8
 #EXTINF:-1 ,Eurosport
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/141/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/141/index.m3u8
 #EXTINF:-1 ,9-й канал Израиль
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/2331/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/2331/index.m3u8
 #EXTINF:-1 ,TV 1000
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/132/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/132/index.m3u8
 #EXTINF:-1 ,Еврокино
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/549/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/549/index.m3u8
 #EXTINF:-1 ,TV XXI
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/525/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/525/index.m3u8
 #EXTINF:-1 ,TV 1000 Action
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/131/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/131/index.m3u8
 #EXTINF:-1 ,Дом Кино
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/154/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/154/index.m3u8
 #EXTINF:-1 ,Paramount Channel
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/2055/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/2055/index.m3u8
 #EXTINF:-1 ,Cinema
-http://17ac1a7d.ottrast.com/iptv/MKWMD9R9VMDUKQ/5051/index.m3u8
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/5051/index.m3u8
