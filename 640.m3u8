@@ -3,24 +3,18 @@
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/127/index.m3u8
 #EXTINF:-1 ,ОРТ +2 часа
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/714/index.m3u8
-#EXTINF:-1 ,ОНТ
-http://mfe09.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/bw1200000/playlist.m3u8?version=2
 #EXTINF:-1 ,Euronews
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/828/index.m3u8
 #EXTINF:-1 ,Беларусь 1
-http://mfe27.svc.ott.zala.by/hls/M52YG9EVYD_HLS/bw2500000/playlist.m3u8?version=2
-#EXTINF:-1 ,Беларусь 2
-http://mfe20.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/bw2500000/playlist.m3u8?version=2
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/2170/index.m3u8
 #EXTINF:-1 ,Беларусь 3
-http://mfe20.svc.ott.zala.by/hls/TSNEW37RPC_HLS/bw1200000/playlist.m3u8?version=2
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/2174/index.m3u8
 #EXTINF:-1 ,Беларусь 5
-http://mfe12.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/bw2500000/playlist.m3u8?version=2
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/5060/index.m3u8
 #EXTINF:-1 ,Россия
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/504/index.m3u8
 #EXTINF:-1 ,НТВ
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/501/index.m3u8
-#EXTINF:-1 ,СТВ
-http://mfe25.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,ТНТ
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/502/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -29,10 +23,8 @@ http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/9279/index.m3u8
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/9164/index.m3u8
 #EXTINF:-1 ,Еда
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/6009/index.m3u8
-#EXTINF:-1 ,МИР
-http://mfe07.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 ,Глазами туриста
-https://mfe25.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/bw2500000/playlist.m3u8?version=2
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/2104/index.m3u8
 #EXTINF:-1 ,Discovery
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/140/index.m3u8
 #EXTINF:-1 ,Discovery Science
@@ -55,6 +47,8 @@ http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/525/index.m3u8
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/131/index.m3u8
 #EXTINF:-1 ,Дом Кино
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/154/index.m3u8
+#EXTINF:-1 ,Cinema
+http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/5051/index.m3u8
 #EXTINF:-1 ,Paramount Channel
 http://5daf713a.kazaktelekom.com/iptv/ENZCFEEF6RUX5L/2055/index.m3u8
 #EXTINF:-1 ,Cinema
